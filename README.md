@@ -185,25 +185,7 @@ Threat Feed Integration
 
 <td align="center" width="250">
 
-🌑<br>
-<b>DarkIntel Hunter</b><br>
-<sub>
-Dark Web OSINT<br>
-Threat Intelligence<br>
-IOC Monitoring
-</sub>
 
-</td>
-
-<td align="center" width="250">
-
-🛡️<br>
-<b>DeepShield-RT</b><br>
-<sub>
-Deepfake Detection<br>
-Computer Vision<br>
-FastAPI
-</sub>
 
 </td>
 </tr>
